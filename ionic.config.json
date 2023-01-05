@@ -1,0 +1,8 @@
+{
+  "name": "convoz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "9ead5abd"
+}

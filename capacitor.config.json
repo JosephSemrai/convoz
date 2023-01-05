@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "convoz",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
